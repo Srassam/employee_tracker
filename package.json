@@ -1,0 +1,19 @@
+{
+  "name": "employee_tracker",
+  "version": "1.0.0",
+  "description": "Created a  Content Management Systems to build a solution for managing a company's employees using node, inquirer, and MySQL.",
+  "main": "employee_tracker.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Srassam/employee_tracker.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Srassam/employee_tracker/issues"
+  },
+  "homepage": "https://github.com/Srassam/employee_tracker#readme"
+}
